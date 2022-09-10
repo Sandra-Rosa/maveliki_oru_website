@@ -2,7 +2,7 @@ import React from 'react'
 import '../App.css'
 import onam14 from '../onam14.png'
 import onam15 from '../onam15.png'
-import onam16 from '../onam16.png'
+import onam26 from '../onam26.png'
 function OnamMessages(){
     return(
       <div className='onammessages'>
